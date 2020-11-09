@@ -1,0 +1,31 @@
+CAR
+
+Instansvariabler:
+nrDoors
+enginePower
+currentSpeed
+color
+modelName
+
+Metoder:
+
+Implementerade olika:
+speedFactor
+incrementSpeed
+decrementSpeed
+
+
+
+Implementerade likadant:
+getNrDoors
+getEnginePower
+getCurrentSpeed
+getColor
+setColor
+startEngine
+stopEngine
+gas
+break
+
+
+
